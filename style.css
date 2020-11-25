@@ -3,9 +3,9 @@
 html, body {
     height: 100%;
     padding: 0;
-    background-color: #EEEEEE;  
+    background-color: #0ef0a5;  
     
-    color: #303030;
+    color: #00,ff,00;
     font: Verdana, Arial, Sans-Serif;
 }
 
@@ -23,7 +23,7 @@ article {
 
 
 header {
-    color: skyblue;
+    color: red;
     text-align: center;
 }
 
@@ -46,7 +46,7 @@ img.zweefLinks {
 }
 
 a {
-    color: skyblue;
+    color: blue;
     text-decoration: none;
 }
 
@@ -77,11 +77,11 @@ nav li a {
 }
 
 nav li a:hover {
-    background-color: #aaaaaa;
+    background-color: #0000ff;
 }
 
 nav li a.active {
-    background-color: skyblue;
+    background-color: rgb(255, 00, 00);
 }
 
 
