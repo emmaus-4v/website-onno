@@ -3,9 +3,9 @@
 html, body {
     height: 100%;
     padding: 0;
-    background-color: #0ef0a5;  
+    background-color: #0ef0f0;  
     
-    color: #00,ff,00;
+    color: #000000;
     font: Verdana, Arial, Sans-Serif;
 }
 
@@ -40,7 +40,10 @@ img.zweefLinks {
     float: left;
     margin-right: 15px;
 }
-
+img.zweefrechts {
+    float: right;
+    margin-left: 15px;
+}
 .smalltext {
     font-size: 0.7em;
 }
@@ -84,6 +87,17 @@ nav li a.active {
     background-color: rgb(255, 00, 00);
 }
 
+#personen{
+    width:450px; 
+     
+    /* position: fixed;  */
+  
+     
+ margin-left: 0px; 
+ margin-right:200px;
 
 
+background-color:#bebcbc; 
+padding:20px;
+}
 
