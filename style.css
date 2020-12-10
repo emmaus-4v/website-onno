@@ -88,7 +88,7 @@ nav li a.active {
 }
 
 #personen{
-    width:450px; 
+    width:500px; 
      
     /* position: fixed;  */
   
@@ -101,3 +101,27 @@ background-color:#bebcbc;
 padding:20px;
 }
 
+.clear { 
+    clear: both; 
+}
+.div1 {
+    width: 700px;
+    height:250px;
+
+    border: green ;
+    background-color: grey ;
+}
+.div2 {
+    width: 700px;
+    height:250px;
+
+    border: red ;
+    background-color: yellow ;
+}
+.div3 {
+    width: 700px;
+    height:250px;
+
+    border: red ;
+    background-color: #ff00ff;
+}
