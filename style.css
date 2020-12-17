@@ -107,21 +107,27 @@ padding:20px;
 .div1 {
     width: 700px;
     height:250px;
-
     border: green ;
-    background-color: grey ;
+    background-color: blue ;
 }
 .div2 {
     width: 700px;
-    height:250px;
+    height:350px;
 
     border: red ;
-    background-color: yellow ;
+    background-color: #0dc97b ;
 }
 .div3 {
     width: 700px;
     height:250px;
 
     border: red ;
-    background-color: #ff00ff;
+    background-color: #0fff7b;
+}
+.div4 {
+    width: 700px;
+    height:700px;
+
+    border: red ;
+    background-color: #a0bfff ;
 }
